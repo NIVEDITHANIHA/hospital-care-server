@@ -1,0 +1,53 @@
+{
+  "patient": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "Admin123@gmail.com",
+      "password": "Admin123",
+      "status": "Visited"
+    },
+    {
+      "id": 5,
+      "name": "Niya",
+      "email": "niya@gmail.com",
+      "status": "Visited"
+    },
+    {
+      "id": 3,
+      "name": "Nithin",
+      "email": "nithina@gmail.com",
+      "status": "Admited"
+    },
+    {
+      "id": 9,
+      "name": "Akshay",
+      "email": "Akshay@gmail.com",
+      "status": "Visited"
+    },
+    {
+      "id": 4,
+      "name": "anand",
+      "email": "anand@gmail.com",
+      "status": "Discharged"
+    },
+    {
+      "id": 2,
+      "name": "megharaj",
+      "email": "megharaj@gmail.com",
+      "status": "Admited"
+    },
+    {
+      "id": 7,
+      "name": "anand",
+      "email": "anand@gmail.com",
+      "status": "Admited"
+    },
+    {
+      "id": 10,
+      "name": "niveditha Aravind",
+      "email": "nivedha.niha@gmail.com",
+      "status": "Visited"
+    }
+  ]
+}
